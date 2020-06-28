@@ -20,13 +20,14 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     padding-bottom: 10px;
 }
+
 h3 {
     color: #66BFBF;
     font-size: 2.0rem;
     font-family: 'Montserrat', sans-serif;
 }
 
-p{
+p {
     line-height: 2;
 }
 
@@ -63,7 +64,6 @@ div {
 
 .middle-container {
     margin: 100px 0;
-
 }
 
 .skill-row {
@@ -93,6 +93,7 @@ div {
     float: left;
     margin: auto 30px auto auto;
 }
+
 .css-image {
     width: 30%;
     float: right;
